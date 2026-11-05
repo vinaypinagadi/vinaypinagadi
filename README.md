@@ -53,7 +53,7 @@ An AI-powered Instagram content assistant that creates short-form video ideas, s
 <div align="center"> <img src="https://raw.githubusercontent.com/vinaypinagadi/vinaypinagadi/output/github-contribution-grid-snake-dark.svg" alt="snake" /> </div> <!-- The snake needs a one-time GitHub Action. See setup notes in the chat. --> <br/>
 🏆 Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vinaypinagadi&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" /> </div> <br/> <div align="center">
-text
+
 ┌──────────────────────────────────────────────┐
 │  "Ship it. Learn from it. Make the next one  │
 │   better."                                   │
