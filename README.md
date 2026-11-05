@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:ff00cc&height=240&section=header&text=SRK%20VINAY%20PINAGADI&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20AI%20Tinkerer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:ff00cc&height=240&section=header&text=SRK%20VINAY%20PINAGADI&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20AI%20Thinker&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/vinaypinagadi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=A+socially+active+and+ruthless+developer;Weaving+innovation+with+a+sharp+intellect;Building+AI-powered+tools+that+feel+alive;Smart-working.+Determined.+Always+shipping." alt="Typing SVG" />
